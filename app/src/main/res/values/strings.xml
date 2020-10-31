@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment1_ZHIWEI_QIU</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="question">Question</string>
+    <string name="Change">Change</string>
+    <string name="Language">Language</string>
+    <string name="English">English</string>
+    <string name="Chinese">中文</string>
+    <string name="Correct">Correct</string>
+    <string name="Wrong">Wrong</string>
+<!-- TODO: Remove or change this placeholder text -->
+
+    <string name="question1">The programs that run on a computer are referred to as hardware.</string>
+    <string name="question2">Procedural programming languages focus on actions rather than objects.</string>
+    <string name="question3">The process of converting statements from a high-level language into statements of a machine language is known as compilation.</string>
+    <string name="question4">Today\'s set of Internet protocols, a set of rules for how computers communicate with each other, is called HTML</string>
+    <string name="question5">Interpreter programs execute high-level language programs without compiling them into machine language first.</string>
+
+</resources>

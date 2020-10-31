@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment1_ZHIWEI_QIU</string>
+    <string name="True">对</string>
+    <string name="False">错</string>
+    <string name="question">问题</string>
+    <string name="Change">换</string>
+    <string name="Language">语言</string>
+    <string name="English">English</string>
+    <string name="Chinese">中文</string>
+    <string name="Correct">答对</string>
+    <string name="Wrong">答错</string>
+    <string name="question1">在计算机上运行的程序称为硬件.</string>
+    <string name="question2">程序编程语言专注于动作而不是对象.</string>
+    <string name="question3">将语句从高级语言转换为机器语言的语句的过程称为编译.</string>
+    <string name="question4">当今的Internet协议集（一套有关计算机之间相互通信的规则）被称为HTML.</string>
+    <string name="question5">解释程序执行高级语言程序，而无需先将其编译为机器语言.</string>
+
+</resources>
